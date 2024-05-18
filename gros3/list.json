@@ -1,0 +1,1875 @@
+[
+    {
+        "type": "character",
+        "name": "Backyard Commando",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Large",
+            "Dumb"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Semper fi, mother humper, semper fi!”",
+        "abilities": "Gains double the printed bonus from ‘Gun’ Props.",
+        "title": "Lust",
+        "number": "001",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Big Sister",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Family",
+            "Neighborhood",
+            "Cool"
+        ],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Because mom left ME in charge, that’s why!”",
+        "abilities": "Gains +2 DS if in the same Movie as the “Annoying Little Brother.”",
+        "title": "Killer",
+        "number": "002",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Conspiracy Theorist",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Smart"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The real cops are in on it man! Don’t you get it? This is the Phone Company we’re dealing with!”",
+        "abilities": "'Alien’ Attacks must target the Conspiracy Theorist’s Movie.",
+        "title": "Zombie",
+        "number": "003",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Cunning Corporate Yes-Man",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Smart"
+        ],
+        "stat": "-4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You don’t realize the opportunity these creatures represent. If we could just figure out a way to harness their destructive nature for evil…”",
+        "abilities": "You may play this Character into an opponent’s Movie. If this Character is the only one in your initial hand, take a mulligan.",
+        "title": "Cannibal",
+        "number": "004",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Doctor",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Old",
+            "Smart"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You do have insurance, don’t you?… Just kidding.”",
+        "abilities": "Defense = -3 vs. ‘Supernatural’ Attacks. While the Doctor is in your Movie you may discard two cards from your hand to save another of your Characters from being killed.",
+        "title": "Alien",
+        "number": "005",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Fat Kid",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Large",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I don’t have to run faster than the killer, I just have to run faster than YOU, fatty!”",
+        "abilities": "When an Attack is successful against the Fat Kid’s Movie, the Fat Kid must be chosen as the victim.”",
+        "title": "VS.",
+        "number": "006",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Foreign Exchange Student",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Young"
+        ],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“… and zen he had his testicles all over me!” “HUH!!!” “Like, how you say, an octopus!” “Oh. You mean tentacles. That’s very different.”",
+        "abilities": "",
+        "title": "Dream",
+        "number": "007",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Goth Chick",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Young"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I am one with all creature of the darkness… EWW, it’s a bug! Get it off me!”",
+        "abilities": "DS = -10 vs. ‘Vampire’ Attacks.",
+        "title": "Malevolent",
+        "number": "008",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Grampa",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Old",
+            "Family",
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I thought I told you kids not to play with dead things.”",
+        "abilities": "While Grampa and at least one ‘Young’ Character are in your Movie, you may discard 3 cards from your hand to stop an Attack made against you.",
+        "title": "Children",
+        "number": "009",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "High School Guidance Counselor",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Smart"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Billy, with your SAT scores you’ll never amount to… say, is that a tentacle?”",
+        "abilities": "",
+        "title": "Blood",
+        "number": "010",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Hobo",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Old"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“That symbol’s hobo code for ‘good food’, that one means ‘place to sleep’ and that one means ‘Beware: Tentacles.’”",
+        "abilities": "May be played as a ‘Psycho Killer’ Attack with AS = 7.",
+        "title": "Circus",
+        "number": "011",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Neighborhood Cougar",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Why don’t you and your brother come inside and help me make a sandwich?”",
+        "abilities": "Gains +1 DS for ever ‘Male’ Character in the same Movie. Gains +2 if they have the Trait ‘Neighborhood’.",
+        "title": "Humanoid",
+        "number": "012",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Neighborhood Patrol",
+        "artwork": {},
+        "traits": [
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Attention zombies! Go back to your graves immediately! You are in violation of neighborhood curfew.”",
+        "abilities": "If none of your Characters have a ‘Vehicle’ Prop you may take on from the Discard Pile and give it to the Neighborhood Patrol.",
+        "title": "Parasite",
+        "number": "013",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Nosy Neighbor",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Old",
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Say, what’s going on on this side of the fence… GAK! GURGLE!”",
+        "abilities": "While the Nosey Neighbour is alive, the player to your right and the player to your left must play with theirs hands exposed.",
+        "title": "Nightmare",
+        "number": "014",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Special Forces Agent",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Smart",
+            "Kung Fu"
+        ],
+        "stat": "6",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Time for some reconnaissance.” “You mean like with jousting and meat on a stick and…” “No, that’s the renaissance.”",
+        "abilities": "Gains double the printed DS from the “Military Vehicle”, “Helicopter”, all ‘Guns’ and the “Military Installation”.",
+        "title": "Cavern",
+        "number": "015",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Surfer Dude",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Dumb"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s a bitchin’ curl out there… as long as you can avoid all the sea monsters.”",
+        "abilities": "",
+        "title": "Gateway",
+        "number": "016",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Teenage Boy Desperate To Get Some",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Neighborhood",
+            "Young"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I don’t believe it, NOW my PANTS are chafing me…”",
+        "abilities": "Gains +1 DS for every ‘Young, Female’ Character in the same Movie.",
+        "title": "Blade",
+        "number": "017",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "The Alcoholic Housewife",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Family",
+            "Neighborhood"
+        ],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Go get Mommy another glass of her special mommy juice…”",
+        "abilities": "",
+        "title": "Part III",
+        "number": "018",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "The Dweeb",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Smart",
+            "Young"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“We talk about physics; properties of physics.” “So it’s social. Demented and sad, but social.”",
+        "abilities": "Gains triple the normal bonus from “Science Textbooks.”",
+        "title": "Sinister",
+        "number": "019",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "The Quiet Guy",
+        "artwork": {},
+        "traits": [
+            "Male"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“He was quiet. Kept to himself, mostly.”",
+        "abilities": "May be played as a ‘Psycho Killer’ Attack with an AS of 10.",
+        "title": "Outer Space",
+        "number": "020",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Token Black Family",
+        "artwork": {},
+        "traits": [
+            "Family",
+            "Neighborhood"
+        ],
+        "stat": "0",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Movin’ on up…”",
+        "abilities": "The Token Black Family cannot be killed by Creatures.",
+        "title": "Black",
+        "number": "021",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Visitor From The Future",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Smart"
+        ],
+        "stat": "5",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You’ve got to believe me! Do NOT vote Republican in the next election.”",
+        "abilities": "While the Visitor from the Future is in your Movie, your hand size is increased by one.",
+        "title": "Monster",
+        "number": "022",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Washed-Up Hollywood Actor",
+        "artwork": {},
+        "traits": [
+            "Old"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I’ve played all sorts of parts… who am I this time?”",
+        "abilities": "Other than ‘Young’, you may give this Character traits as needed at any time.",
+        "title": "Psycho",
+        "number": "023",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Welcome Wagon Lady",
+        "artwork": {},
+        "traits": [
+            "Female",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Here’s your gift basket!”",
+        "abilities": "Wagon Lady may be played as a ‘Psycho Killer’ Attack with an AS of 8",
+        "title": "Predator",
+        "number": "024",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "character",
+        "name": "Workaholic Dad",
+        "artwork": {},
+        "traits": [
+            "Male",
+            "Family",
+            "Neighborhood"
+        ],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Don’t bother your father, honey. Daddy’s working.”",
+        "abilities": "",
+        "title": "Revenge",
+        "number": "025",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Alien Man Hunter",
+        "artwork": {},
+        "traits": [
+            "Alien",
+            "Psycho Killer"
+        ],
+        "stat": "15",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“He’s after the most dangerous game of all.” “Hand grenade bowling?” “Not that type of game, chowder head.”",
+        "abilities": "May use ‘Weapons’ to boost AS.",
+        "title": "Insane",
+        "number": "026",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Android Wives",
+        "artwork": {},
+        "traits": [
+            "Neighborhood",
+            "Swarm"
+        ],
+        "stat": "11",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Welcome home, sweetheart.”",
+        "abilities": "The Android Wives always succeed in “The Suburbs”.",
+        "title": "Sasquatch",
+        "number": "027",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Bigfoot",
+        "artwork": {},
+        "traits": [
+            "Monster"
+        ],
+        "stat": "15",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Is that thing wearing a wrist watch?” “Shhh!”",
+        "abilities": "Always succeeds in “The Woods”, “The Deep Dark Woods” and “Sherwood Forest”. Cannot Attack a Movie set in the “Cabin in the Woods”.",
+        "title": "Ghost",
+        "number": "028",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Cannibalistic Hillbillies",
+        "artwork": {},
+        "traits": [
+            "Psycho Killer"
+        ],
+        "stat": "10",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Hooo-eee! We’d sure like to have you for dinner, boy howdy!”",
+        "abilities": "If the Cannibalistic Hillbillies succeed you may take a card at random from the target player’s Movie.",
+        "title": "Stepford",
+        "number": "029",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Dream Stalker",
+        "artwork": {},
+        "traits": [
+            "Supernatural",
+            "Psycho Killer"
+        ],
+        "stat": "11",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Dreeeeeeeam Stalker, I believe he’ll kill me in the ni-ight!”",
+        "abilities": "May use ANY Prop to boost AS. Cannot be stopped by “It Was Only A Dream”.",
+        "title": "Tentacle",
+        "number": "030",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Evil Teenage Witches",
+        "artwork": {},
+        "traits": [
+            "Supernatural",
+            "Neighborhood"
+        ],
+        "stat": "13",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“So first we light the candles and call the elements, then we rip out the elements, then we rip out the sacrifice’s heart… then we go get lattes, right?”",
+        "abilities": "Gains +1 AS for every ‘Young’ Character in the target Movie.",
+        "title": "Hand",
+        "number": "031",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Giant Octopus",
+        "artwork": {},
+        "traits": [
+            "Aquatic",
+            "Monster"
+        ],
+        "stat": "12",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Eight tentacles, no waiting!”",
+        "abilities": "Always succeeds in “...In A Sleepy New England Coastal Town”.",
+        "title": "Damned",
+        "number": "032",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Gone Postal",
+        "artwork": {},
+        "traits": [
+            "Psycho Killer",
+            "Neighborhood"
+        ],
+        "stat": "7",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I got your special delivery right here!”",
+        "abilities": "May use ‘Weapons’ to boost AS. Gains double the printed AS from ‘Guns’.",
+        "title": "Serial",
+        "number": "033",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Hell Spawn",
+        "artwork": {},
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "13",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Oh, hell!”",
+        "abilities": "Cannot Attack a Movie in the “Old Church” or the “Monastery”.",
+        "title": "Demon",
+        "number": "034",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Horde Of Giant Frogs",
+        "artwork": {},
+        "traits": [
+            "Monster",
+            "Aquatic"
+        ],
+        "stat": "12",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Those frogs are homicidal.” “Hey, it’s not easy being green!”",
+        "abilities": "Attacker may remove the ‘Aquatic’ trait by lowering the printed AS to 9. May be played as a Special Effect to double the AS of the Evil Teenage Witches.",
+        "title": "Death",
+        "number": "035",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Human-Alien Hybrid",
+        "artwork": {},
+        "traits": [
+            "Alien"
+        ],
+        "stat": "16",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“We made her female, so she’d be more docile and controllable.” “You don’t get out much, do you?”",
+        "abilities": "Must choose a ‘Male’ victim if one is in the target Movie.",
+        "title": "Vile",
+        "number": "036",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Killer Dessert From Hell",
+        "artwork": {},
+        "traits": [
+            "Monster",
+            "Yummy"
+        ],
+        "stat": "8",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s creating an army of calorie-conscious, low-card zombies!”",
+        "abilities": "Gains +2 AS for each ‘Young’ or ‘Female’ Character in the target Movie.",
+        "title": "Necromancy",
+        "number": "037",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Killer Scarecrow",
+        "artwork": {},
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "9",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“If I only had your brain…”",
+        "abilities": "Always succeeds in the “Corn Field”. May use the “Shovel”, “Hedge Clippers”, “Chainsaw” or “Pitchfork” to boost AS.",
+        "title": "Soul",
+        "number": "038",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Little Green Men",
+        "artwork": {},
+        "traits": [
+            "Alien"
+        ],
+        "stat": "8",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Don’t probe me!” “Puh-lease. We don’t probe until the third abduction. Who do you think we are, those cads from Andromeda-9?”",
+        "abilities": "Gains +4 AS for each Prop you discard from your hand when playing the Little Green Men.",
+        "title": "Tale",
+        "number": "039",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Master Vampire",
+        "artwork": {},
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "14",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Never invite a vampire into your home, dear boy. Because then he eats your face!”",
+        "abilities": "May be played as a Special Effect to quadruple the “Teenage Vampire Hoods” or double any other ‘Vampire’ Attack.",
+        "title": "Hospital",
+        "number": "040",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Necromancer",
+        "artwork": {},
+        "traits": [],
+        "stat": "10",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I am the greatest doctor in the world! I have conquered death itself!”",
+        "abilities": "May be played as a Special Effect to double the AS of any ‘Zombie’ Attack.",
+        "title": "Void",
+        "number": "041",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Post-Apocalyptic Road Warriors",
+        "artwork": {},
+        "traits": [
+            "Psycho Killer",
+            "Swarm"
+        ],
+        "stat": "9",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Lord Humungous is here for the gas.” “Tell him to try the stuffed peppers, they always do it for me.”",
+        "abilities": "AS = 20 vs. a Movie with a ‘Vehicle’ in it. May use ‘Weapons’ and ‘Vehicles’ to boost AS.",
+        "title": "Undead",
+        "number": "042",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Rabid Dogs",
+        "artwork": {},
+        "traits": [
+            "Monster",
+            "Neighborhood"
+        ],
+        "stat": "7",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“What’s that Skippy?” “Billy, that’s not Skippy!”",
+        "abilities": "Gains +5 AS for every version of “Skippy” in the target Movie.",
+        "title": "Hound",
+        "number": "043",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Restless Ghost",
+        "artwork": {},
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "6",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“They’re heeeeeeere!”",
+        "abilities": "The Restless Ghost always succeeds against a Movie with the “Television Set” in it.",
+        "title": "Spirit",
+        "number": "044",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Sea Monster",
+        "artwork": {},
+        "traits": [
+            "Aquatic",
+            "Monster"
+        ],
+        "stat": "16",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Does anyone else smell fish?”",
+        "abilities": "If successful, the Sea Monster kills one Character and can destroy one Location or ‘Vehicle’ card from the same movie.",
+        "title": "Star",
+        "number": "045",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Suburban Slashers From Sunnydale Street",
+        "artwork": {},
+        "traits": [
+            "Psycho Killer",
+            "Swarm",
+            "Neighborhood"
+        ],
+        "stat": "17",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“At this rate, they’re going to kill the whole town.” “Not much of a loss.”",
+        "abilities": "May use ‘Weapons’ to boost AS.",
+        "title": "Rise",
+        "number": "046",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Teenage Vampire Hoods",
+        "artwork": {},
+        "traits": [
+            "Supernatural",
+            "Vampire",
+            "Neighborhood"
+        ],
+        "stat": "9",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Live forever, never grow old and no more curfew!”",
+        "abilities": "Gain +2 AS for every ‘Neighborhood’ card in the target Movie.",
+        "title": "Mountain",
+        "number": "047",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "The Hungry Dead",
+        "artwork": {},
+        "traits": [
+            "Supernatural",
+            "Zombie"
+        ],
+        "stat": "12",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“CHOMP! SLURP! GULP!”",
+        "abilities": "Always succeeds in “The Graveyard”.",
+        "title": "Hunger",
+        "number": "048",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Wolfman",
+        "artwork": {},
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "12",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Fangs for the memories.”",
+        "abilities": "",
+        "title": "Beyond",
+        "number": "049",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Zombie Overlord",
+        "artwork": {},
+        "traits": [
+            "Zombie"
+        ],
+        "stat": "14",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Really BIG Braiiiiiiiiiiiiiiiiiiiin!”",
+        "abilities": "Attacker may declare the Zombie Overlord either ‘Alien’ or ‘Supernatural’. Maybe be combined with any other ‘Zombie’ Attack.”",
+        "title": "Robot",
+        "number": "050",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "creature",
+        "name": "Zombie Parasites",
+        "artwork": {},
+        "traits": [
+            "Zombie"
+        ],
+        "stat": "10",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Have you noticed anything weird in town?” “You mean the blank stares, shambling gaits and all the slime traits?”",
+        "abilities": "Any Character killed by Zombie Parasites can immediately be used by the current player to make a ‘Zombie’ Attack with AS = triple the Character’s printed DS.",
+        "title": "Cage",
+        "number": "051",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "… In A Sleepy New England Coastal Town",
+        "artwork": {},
+        "traits": [
+            "Aquatic"
+        ],
+        "stat": "-10",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“If you get a chance, visit Lovecraft’s Diner. The calamari is to die for.”",
+        "abilities": "Can be attached to any Location that doesn’t contain a proper noun (“Tokyo Skyline”, Paris”, “Caribbean Island”, etc.), “Sea Monster”, “Giant Octopus” and “Humanoids from the Deep” always succeed here.",
+        "title": "Case",
+        "number": "052",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Boiler Room",
+        "artwork": {},
+        "traits": [],
+        "stat": "-2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s dark, it’s steamy, it’s got a hellish red glow… what’s not to like?”",
+        "abilities": "“Dream Stalker” always succeeds in the Boiler Room.",
+        "title": "Terror",
+        "number": "053",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Corn Field",
+        "artwork": {},
+        "traits": [],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You’re going into the cornfield?” “Yeah.” “Corn? As in ‘Children of the’?”",
+        "abilities": "Corn Field may be attached to the “Farm House” and vice versa.",
+        "title": "Sucking",
+        "number": "054",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Creepy Old Castle",
+        "artwork": {},
+        "traits": [],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The car’s dead, what are we going to do?” “There’s a light over at the Frankenstein place.”",
+        "abilities": "Defense = -5 vs. ‘Supernatural’ Attacks.",
+        "title": "Moon",
+        "number": "055",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Local Watering Hole",
+        "artwork": {},
+        "traits": [
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I’m looking for somebody. A middle-aged drunken loser.” “You just described everybody in here, pal.”",
+        "abilities": "“Town Drunk” and “Alcoholic Mom” gain +2 DS while in the Local Watering Hole.",
+        "title": "Bad",
+        "number": "056",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Mysterious Island",
+        "artwork": {},
+        "traits": [
+            "Aquatic"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Wait a second… weren’t there six of us on this island a minute ago?”",
+        "abilities": "At the end of each of your turns that your Movie is set on the Mysterious Island, you must discard one Character from play.",
+        "title": "Journey",
+        "number": "057",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Party At The Rich Kid’s House",
+        "artwork": {},
+        "traits": [
+            "Aquatic"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Everybody at the party got murdered! Makes you kind of glad you’re so unpopular you didn’t get invited.”",
+        "abilities": "'Psycho Killer’ Attacks must target a movie set in this location.",
+        "title": "Massacre",
+        "number": "058",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Sleazy Motel",
+        "artwork": {},
+        "traits": [],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Clean the blood off the walls, dispose of the body, then turn on the’ vacancy’ sign.”",
+        "abilities": "If he’s a Character here, the “Creepy Old Innkeeper” DS = 3. If he’s a ‘Psycho Killer’ attacking here, his AS = 15.",
+        "title": "Curse",
+        "number": "059",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Space Station",
+        "artwork": {},
+        "traits": [],
+        "stat": "6",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Open the pod bay doors or I am going to introduce your hard drive to a very powerful magnet.”",
+        "abilities": "'Alien’ Attacks always succeed on the Space Station.",
+        "title": "Feed",
+        "number": "060",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Attic",
+        "artwork": {},
+        "traits": [],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s dusty up here.” “Dust is 90% dead skin cells, you know.” “Now I really don’t want to touch anything!”",
+        "abilities": "This Location MAY NOT be played on its own. It must be attached to a previously existing Location. Defense = -5 vs. ‘Psycho Killer’ Attacks",
+        "title": "House",
+        "number": "061",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Boardwalk",
+        "artwork": {},
+        "traits": [
+            "Aquatic"
+        ],
+        "stat": "5",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You every wondered what’s under the boardwalk?” “Probably bodies.”",
+        "abilities": "May be attached to the “Beach”.",
+        "title": "Scream",
+        "number": "062",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Graveyard",
+        "artwork": {},
+        "traits": [],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“They’re coming to gt you, Barbara!”",
+        "abilities": "May be attached to the “House By The Cemetery”, “Old Church” or “Tomb”. ‘Zombie’ Attacks always succeed in the Graveyard.",
+        "title": "Shadow",
+        "number": "063",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Suburbs",
+        "artwork": {},
+        "traits": [
+            "Neighborhood"
+        ],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Where they cut down all the trees and then name the streets after them.”",
+        "abilities": "All ‘Neighborhood’ Characters gain +1 DS while in the Suburbs, but all ‘Neighborhood’ Attacks against a Movie in the suburbs are made at double AS.",
+        "title": "Town",
+        "number": "064",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Theater",
+        "artwork": {},
+        "traits": [
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Thank God it was only a movie!”",
+        "abilities": "While your Movie is in the Theater, you may discard 4 cards from your hand to stop an Attack being made against you or cancel a Special Effect being played against you.",
+        "title": "Haunt",
+        "number": "065",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "The Tool Shed",
+        "artwork": {},
+        "traits": [],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Hedge clippers, chainsaw, lawn darts… It’s a one stop shop of pain and suffering.”",
+        "abilities": "If a player adds one or more Props to their Movie on their turn, you may draw a card from the deck.”",
+        "title": "Flesh",
+        "number": "066",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "10-Speed",
+        "artwork": {},
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Is one of the speeds ‘get me the hell out of here’?”",
+        "abilities": "Defense = +3 on a ‘Young’ Character.",
+        "title": "Suburban",
+        "number": "067",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "B.B. Rifle",
+        "artwork": {},
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Just call me the B.B. King!” “You did not just say that.”",
+        "abilities": "",
+        "title": "Grave Robbers",
+        "number": "068",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Camera",
+        "artwork": {},
+        "traits": [],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Everybody say ‘Tentacle’!”",
+        "abilities": "Defense = +4 on “The Reporter”.",
+        "title": "Living",
+        "number": "069",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Crucifix",
+        "artwork": {},
+        "traits": [],
+        "stat": "0",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You have to have faith for that to work!”",
+        "abilities": "While you have the Crucifix in play, you may discard 2 cards to stop any ‘Vampire’ Attack made against your movie. Discard only 1 card if in the hands of the “Old Priest”, “Reverend Minister”, “Preacher Man”, or “Helpful Cleric.”",
+        "title": "Dracula",
+        "number": "070",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Halloween Mask",
+        "artwork": {},
+        "traits": [],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Da-na-na!” Da-na-na! Da-na-da-na! Da-na-na! Da-na-na! Da-na-da-na!”",
+        "abilities": "A character wearing the mask may be used to make a ‘Psycho Killer’ Attack with an AS = the Character’s printed DS plus all its attached Weapons. If the Attack succeeds, the Character returns to your Movie.",
+        "title": "Night",
+        "number": "071",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Hand Grenade",
+        "artwork": {},
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "-2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Billy, you go to pieces so quickly, people get hit by the shrapnel.”",
+        "abilities": "Discard from play to gain +15 DF for the duration of the current Attack OR discard from play to remove one card from any player’s Movie.”",
+        "title": "Vampire",
+        "number": "072",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Handgun",
+        "artwork": {},
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Gimme that, kid! You’ll just hurt yourself.” BLAM! “Ow! Ow! Ow!”",
+        "abilities": "The Handgun cannot be given to a ‘Young’ Character if there are any non-’Young’, ‘Neighborhood’ Characters in the same Movie.",
+        "title": "Doctor",
+        "number": "073",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Hedge Clippers",
+        "artwork": {},
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Just a little off the top… GAK!”",
+        "abilities": "",
+        "title": "Motel",
+        "number": "074",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Liquor Bottle",
+        "artwork": {},
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Aliens rampaging through the streets, friends and neighbors dying… so cocktails all around, then?”",
+        "abilities": "Defense = +6 while at the “Local Watering Hole.”",
+        "title": "Martian",
+        "number": "075",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Military Vehicle",
+        "artwork": {},
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "8",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“4 wheel drive, bullet-proof plating… and 36 cup holders!”",
+        "abilities": "Discard from play to stop one Attack made against your Movie.",
+        "title": "Frankenstein",
+        "number": "076",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Row Boat",
+        "artwork": {},
+        "traits": [
+            "Vehicle",
+            "Aquatic"
+        ],
+        "stat": "3",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“He’s gone under the boat!”",
+        "abilities": "Defense = +6 if in the same Movie with an ‘Aquatic’ Location.",
+        "title": "Slasher",
+        "number": "077",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Shovel",
+        "artwork": {},
+        "traits": [],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Dig this!” WHAM!",
+        "abilities": "When played, you may declare the Shovel a ‘Weapon’.",
+        "title": "Attack",
+        "number": "078",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Skateboard",
+        "artwork": {},
+        "traits": [
+            "Vehicle",
+            "Weapon"
+        ],
+        "stat": "1",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Taste deck…” WHAM! “… you no good…” WHAM! “...undead punk!” WHAM!",
+        "abilities": "Discard the Skateboard from play to gain +5 DS for the duration of the current Attack.",
+        "title": "Evil",
+        "number": "079",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Skippy The Wonder Dog",
+        "artwork": {},
+        "traits": [
+            "Stuffed",
+            "Weapon"
+        ],
+        "stat": "4",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“What’s that, Skippy?” “Dude, stuffed dog’s can’t talk.” “Oh, yeah…”",
+        "abilities": "Discard Skippy from play to stop any Attack made against any Movie. Such is the power of Skippy.",
+        "title": "Carnage",
+        "number": "080",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Television Set",
+        "artwork": {},
+        "traits": [],
+        "stat": "0",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Coming up on Channel 6… DEATH!”",
+        "abilities": "If an Attack made against you fails, you may place the Creature card under this card. Any Creatures under here can be used on your turn to make an Attack as though it had been in your hand. If the TV Set Is removed from play, all Creature cards underneath it are also lost.",
+        "title": "Fiend",
+        "number": "081",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "prop",
+        "name": "Straight Razor",
+        "artwork": {},
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "2",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Gillette, the best a homicidal maniac can get!”",
+        "abilities": "Gives +8 AS if used with a ‘Psycho Killer’ Attack.",
+        "title": "Devil",
+        "number": "082",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The screaming and running has stopped, so I guess it’s all over.”",
+        "abilities": "",
+        "title": "Hell",
+        "number": "083",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“This paramedic’s blanket makes it all better.”",
+        "abilities": "",
+        "title": "Satan",
+        "number": "084",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Abrupt Ending",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“What? That’s it?!?”",
+        "abilities": "Take ten cards off the Draw Pile. If you draw a Roll the Credits card, play it immediately. All other cards are shuffled back into the Draw Pile.",
+        "title": "Stalk",
+        "number": "085",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Allowance",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Gimme! Gimme! Gimme!”",
+        "abilities": "Play at any time to draw one free card for each ‘Young’ Character in your Movie.",
+        "title": "Skull",
+        "number": "086",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Bathroom Break",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Welcome to the Snack Bar! Our sodas come in four sizes; Small, Medium, Large and ‘I Really Didn’t Want To See The End Of The Movie!’”",
+        "abilities": "Force the player of your choice to miss their next turn.",
+        "title": "Torture",
+        "number": "087",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Blend In",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Okay everyone… act like zombies!”",
+        "abilities": "Add +5 DS for the duration of the current Attack OR Stop one ‘Zombie’ Attack.",
+        "title": "Woman",
+        "number": "088",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Blind, Stupid Optimism",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I can’t see it, so it must be gone!”",
+        "abilities": "Remove one Character from play.",
+        "title": "Werewolf",
+        "number": "089",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Camera Tricks",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s all done with time-lapse stop-motion animatroni…” “You don’t really know what you’re talking about, do you?” “No, not really.”",
+        "abilities": "Reverse the direction of play for the remainder of the game.",
+        "title": "Horror",
+        "number": "090",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Camping In The Backyard",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“And when the lady got out of her car… did you just hear something?”",
+        "abilities": "Kill one ‘Young’ Character. If that Character also has the Trait ‘Neighborhood’, immediately bank 3 points for killing them.",
+        "title": "Cauldron",
+        "number": "091",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Corny Effects",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Not only did I see the zipper, but also whatever it was holding back!”",
+        "abilities": "Play at any time (even during an Attack). All Attacks (including the current one) made until the end of your next turn are at half AS.",
+        "title": "Serpent",
+        "number": "092",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Crossing Genres",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I know it’s a horror, but it’s a romantic comedy horror.”",
+        "abilities": "Halve (round down) the AS of the current Attack.",
+        "title": "Meet",
+        "number": "093",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Curfew",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Billy! Time for dinner!”",
+        "abilities": "Add +3 DS for the duration of the current Attack OR stop one ‘Neighborhood’ Attack.",
+        "title": "Witch",
+        "number": "094",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Cursed!",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Jinx!”",
+        "abilities": "Cut the DS of one Movie in half (round down for the duration of the current Attack OR triple the AS of a ‘Magic’ Attack.",
+        "title": "Bone",
+        "number": "095",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Edited For Television",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The cut out all the best parts.”",
+        "abilities": "Halve (round down) the AS of the current Attack OR stop any of the following Special Effects: “We’ve Seen Your Breasts Now You Must Die”, “Only The Virgin Survives”, “Let’s Go Skinny Dipping”, “Grim Reefer”, “Shower Scene” or “Gratuitous Nudity”.",
+        "title": "Vanilla",
+        "number": "096",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Elaborate Death Scene",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I never thought I’d ever see someone killed with a stuffed animal, a carton of molasses, and 13 super balls.”",
+        "abilities": "Double the AS of the current Attack",
+        "title": "Lake",
+        "number": "097",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Experimental Formula",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You didn’t drink that, did you?”",
+        "abilities": "Attach this card to a Character. Any time that Character’s Movie gets attacked, flip the top card of the Draw Pile. If it is a Creature card, the Character transforms into a monster and its DS counts AGAINST the Movie it is in. The flipped card is shuffled back into the Draw Pile.",
+        "title": "Creep",
+        "number": "098",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Fire In The Hole!",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Burn, baby, burn!” Undead inferno!”",
+        "abilities": "Remove one Location or ‘Vehicle’ from play OR stop one Attack made by the “Mummy” or any ‘Vampire’ Creature.",
+        "title": "Warlock",
+        "number": "099",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Flesh Wound",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The chainsaw just grazed my skull after all… I guess I’m just lucky.”",
+        "abilities": "Take a Character from the Discard Pile and put it into your Movie at -1 DS.",
+        "title": "Skin",
+        "number": "100",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Full Moon",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I see a bad moon a-risin’!”",
+        "abilities": "Double the AS of the current Attack and give it the Trait “Supernatural” OR make either the ‘Wolfman’ or “I Was a Teenage Werewolf” automatically succeed.",
+        "title": "Hill",
+        "number": "101",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Genetically Engineered",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s the result of a top secret government project…” “Another one?”",
+        "abilities": "Double the AS of the current Attack.",
+        "title": "High School",
+        "number": "102",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Giant Man-Eating…",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You remember that thing we killed? Well I think we must have angered its mother…”",
+        "abilities": "Take a Creature from the Discard Pile and make an Attack with it. AS = double the printed AS value.",
+        "title": "Future",
+        "number": "103",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Hammer & Nails",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Barricade the doors and windows.” “Who do I look like, Bob Villa?” “No, but you do look like someone who doesn’t want to get eaten.”",
+        "abilities": "Double the DS bonus of one Location for as long as it remains in play.",
+        "title": "Man",
+        "number": "104",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Just Moved In",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“New in town? I think you’ll get to like it here… if you live long enough.”",
+        "abilities": "Give one Character a +2 DS and the Trait ‘Neighborhood’ for as long as it remains in play.",
+        "title": "Hunt",
+        "number": "105",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Kick To The Groin",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“They never used to fight back so hard.”",
+        "abilities": "Add +5 DS for the duration of the current Attack OR stop one ‘Psycho Killer’ Attack.",
+        "title": "Legend",
+        "number": "106",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Killing Spree",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“It’s like a shopping spree, but with more running and screaming.” “Obviously you’ve never been to Wal-Mart the day before Christmas.”",
+        "abilities": "Place this card beside the Discard Pile. For the remainder of the game, every time a Character is killed or otherwise removed from play, the player responsible banks points equal to the printed DS of the Character in question.",
+        "title": "Halloween",
+        "number": "107",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Maniacal Laughter",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Mwa-ha-ha! Mwa-ha-ha-ha-ha-ha!”",
+        "abilities": "Triple the AS of the current Attack OR stop one card (except Roll the Credits) from being played.",
+        "title": "Maniac",
+        "number": "108",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Overexposed",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“You mean we have to shoot that footage again?”",
+        "abilities": "Remove any one card from play.",
+        "title": "Rage",
+        "number": "109",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Overtime",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Call payroll. We need to keep everyone just a little bit longer.”",
+        "abilities": "Play to take a free turn at the end of your current turn.",
+        "title": "Dread",
+        "number": "110",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Panic Attack!",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“They’re running around like little girls.” “Dude, it’s a Girl Scout Camp!”",
+        "abilities": "Play during an Attack to reduce the printed DS of all the Characters in one Movie to 0. Location and Prop cards still count. This lasts for the duration of the current Attack.",
+        "title": "Skeleton",
+        "number": "111",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Portal to Hell",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Where do you think that goes?” “No place good.”",
+        "abilities": "Take X Creature cards out of the Discard Pile and make a single Attack with all of them combined. X cannot be larger than the number of Characters in the target Movie. The Attack has all the traits of each Creature that goes into it AND the Trait ‘Swarm’.",
+        "title": "Village",
+        "number": "112",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Rats In The Walls And Corpses In The Cupboards",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“The best part was when she reached for the can of mace and found her boyfriend’s head in her purse!”",
+        "abilities": "Go through the Discard Pile and count the number of Characters in it. Add that number to the AS of the current attack.",
+        "title": "Fear",
+        "number": "113",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Romero Ending",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“Just when you thought it was safe…”",
+        "abilities": "Play after someone Rolls the Credits. Kill one Character of your choice from each player’s Movie (including your own).",
+        "title": "Dawn",
+        "number": "114",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Slumber Party",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“A dozen girls in their nighties alone in a big house… what could possible go wrong?”",
+        "abilities": "Place this case beside the Discard Pile. All ‘Psycho Killer’ Attacks are made at double their printed AS for the remainder of the game.",
+        "title": "Street",
+        "number": "115",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Special Edition",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“This version goes on for another forty-five minutes.”",
+        "abilities": "Stop another player from playing Roll the Credits. The Roll the Credits card is discarded with no effect. That Player may continue his or her turn.",
+        "title": "Master",
+        "number": "116",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Surprise Betrayal",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“No one’s getting out of here alive… well, no one but me.”",
+        "abilities": "Attach to any Character in play. That Character’s DS is now negative.",
+        "title": "Spawn",
+        "number": "117",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Torn To Pieces",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“That guy sure had guts… and intestines… and a spleen…”",
+        "abilities": "Double the AS of any ‘Swarm’ Attack. If the Attack succeeds, the Character killed is not put into the Discard Pile and cannot be brought back into play in any manner by any card.",
+        "title": "Reptile",
+        "number": "118",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Trailers",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“I can’t wait to see that one!”",
+        "abilities": "Take the top ten cards off the Draw Pile and look at them. Put them back on top in any order that you like.",
+        "title": "Machete",
+        "number": "119",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "You Call That Blood?",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": 0,
+        "bucket": false,
+        "quote": "“First off, it’s got to be red!”",
+        "abilities": "Stop one Special Effect card. The Special Effect is discarded with no effect.",
+        "title": "Spider",
+        "number": "120",
+        "mechanic": "Steve Tassie"
+    }
+]

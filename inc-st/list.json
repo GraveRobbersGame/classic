@@ -1,0 +1,918 @@
+[
+    {
+        "type": "character",
+        "name": "Baby Sitter",
+        "artwork": {
+            "0": {
+                "file": "005.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Female",
+            "Young",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"$6.75 an hour and unlimited fridge privileges is not worth DYING FOR!\"",
+        "abilities": "Gains +2 Defense from each 'Young' Character in the same Movie.",
+        "title": "Night",
+        "number": "005",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        }
+    },
+    {
+        "type": "character",
+        "name": "Janitor",
+        "artwork": {
+            "0": {
+                "file": "009.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Male",
+            "Dumb"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"You wouldn't believe the things some people throw away...\"",
+        "abilities": "Pay 2 Popcorn to take any Prop out of the Graveyard and give it to the Janitor for free. The Janitor has no Prop limit.",
+        "title": "House",
+        "number": "009",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 3,
+            "disad": 0
+        }
+    },
+    {
+        "type": "character",
+        "name": "Stoner",
+        "artwork": {
+            "0": {
+                "file": "021.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Male",
+            "Dumb"
+        ],
+        "stat": "-2",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Dave's not here, man...\"",
+        "abilities": "May be played into an Opponent's Movie.",
+        "title": "Fearsome",
+        "number": "021",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        }
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits 1",
+        "artwork": {
+            "0": {
+                "file": "058.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Keep watching the skies...\"",
+        "abilities": "",
+        "title": "Beach",
+        "number": "058",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits 2",
+        "artwork": {
+            "0": {
+                "file": "059.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Look! Sunlight! We made it!\"",
+        "abilities": "",
+        "title": "Blood",
+        "number": "059",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits 3",
+        "artwork": {
+            "0": {
+                "file": "060.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"The end... or is it? But...\"",
+        "abilities": "",
+        "title": "Lizard",
+        "number": "060",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits 4",
+        "artwork": {
+            "0": {
+                "file": "061.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"The bad guy's dead and none of this blood is mine, so it must be over...\"",
+        "abilities": "",
+        "title": "Supernatural",
+        "number": "061",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "location",
+        "name": "Sewer",
+        "artwork": {
+            "0": {
+                "file": "067.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Underground",
+            "Aquatic"
+        ],
+        "stat": "-3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"It's moments like this that I think I have to reexamine my lifestyle choices...\"",
+        "abilities": "'Subterranean' Attacks always succeed in the Sewer.",
+        "title": "Grasp",
+        "number": "067",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        }
+    },
+    {
+        "type": "location",
+        "name": "Basement",
+        "artwork": {
+            "0": {
+                "file": "076.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Building",
+            "Underground"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Hmm, I wonder what's down here...\"",
+        "abilities": "The Basement can't stand on its own; it must be Combined with another Location. Defense = -1 during 'Psycho' Attacks.",
+        "title": "Invisible",
+        "number": "076",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        }
+    },
+    {
+        "type": "location",
+        "name": "Fun House",
+        "artwork": {
+            "0": {
+                "file": "082.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Building"
+        ],
+        "stat": "-15",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Doot-do-do-do-do Doot-do-do-do.\"",
+        "abilities": "On your turn, you may pay 3 Popcorn to swap one of your Characters (with their attached cards) for another Player's (with their attached cards).",
+        "title": "Carnival",
+        "number": "082",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 3,
+            "disad": 0
+        }
+    },
+    {
+        "type": "prop",
+        "name": "Old Pickup Truck",
+        "artwork": {
+            "0": {
+                "file": "084.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Who's got the keys?\" \"Billy.\" \"Aaaaand would this be Billy's severed head in the toilet?\"",
+        "abilities": "Any time your Movie loses one or more Props to the Graveyard, you may give one of them to the owner of the Pickup.",
+        "title": "Satan",
+        "number": "084",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        }
+    },
+    {
+        "type": "prop",
+        "name": "Explosives",
+        "artwork": {
+            "0": {
+                "file": "085.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "-2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"EAT THIS!!!\"",
+        "abilities": "Discard Explosives during an Attack to give your Movie +15 Defense until the attack is over.",
+        "title": "Atomic",
+        "number": "085",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        }
+    },
+    {
+        "type": "prop",
+        "name": "High Heels",
+        "artwork": {
+            "0": {
+                "file": "090.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Clothing"
+        ],
+        "stat": "-2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Three days in a remote cabin and THESE are the shoes she wears?\"",
+        "abilities": "Can be played on an Opponent's Character.",
+        "title": "Moon",
+        "number": "090",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        }
+    },
+    {
+        "type": "prop",
+        "name": "Flamethrower",
+        "artwork": {
+            "0": {
+                "file": "101.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "7",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Now we're cooking with heat!\"",
+        "abilities": "Works against Swarm attacks.",
+        "title": "Man",
+        "number": "101",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        }
+    },
+    {
+        "type": "special-effect",
+        "name": "Editing Room Floor",
+        "artwork": {
+            "0": {
+                "file": "108.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"But I swear, I'm in this movie!\"",
+        "abilities": "Remove any one card from any Movie. It is discarded.",
+        "title": "Werewolf",
+        "number": "108",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Gotcha!",
+        "artwork": {
+            "0": {
+                "file": "112.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Oh look, the old 'fist out of the fresh grave' trick.\"",
+        "abilities": "Stop a Roll the Credits card from ending the game. It is discarded.",
+        "title": "Giant",
+        "number": "112",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Hey, What's Behind\nThis Door?",
+        "artwork": {
+            "0": {
+                "file": "114.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"It's a fine line between stupid and clever.\"",
+        "abilities": "Kill one Character who is either 'Smart' or 'Dumb'.",
+        "title": "Vixen",
+        "number": "114",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "It Was Only a Dream",
+        "artwork": {
+            "0": {
+                "file": "117.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"And you were there, and you were there...\"",
+        "abilities": "Stop one Attack. The Creature is discarded.",
+        "title": "Die",
+        "number": "117",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Over Budget",
+        "artwork": {
+            "0": {
+                "file": "122.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"First day of filming and we're already out of money? You are SO fired!\"",
+        "abilities": "Stop one Special Effect card as it's being played. It is discarded.",
+        "title": "Nextdoor",
+        "number": "122",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Production Value",
+        "artwork": {
+            "0": {
+                "file": "123.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"It's the cleavage. Monsters are distracted by cleavage.\"",
+        "abilities": "Attach this card to a 'Female' Character. She gains +2 Defense.",
+        "title": "Claws",
+        "number": "123",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Pyrotechnics",
+        "artwork": {
+            "0": {
+                "file": "124.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"The good news is that the zombies are afraid of fire. The bad news is I just dropped the torch on those oily rags over there...\"",
+        "abilities": "Destroy a Location. For each extra Popcorn you spend, kill one Character in that Movie.",
+        "title": "Escape",
+        "number": "124",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Relentless",
+        "artwork": {
+            "0": {
+                "file": "128.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "Ch-ch-ch-ch! Ah-ah-ah-ah!",
+        "abilities": "Play after a successful Attack. You may immediately attack any Movie with that Creature again for no extra cost.",
+        "title": "Mummy",
+        "number": "128",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Run Away!!!!",
+        "artwork": {
+            "0": {
+                "file": "129.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"It's harder to kill a moving target!\"",
+        "abilities": "Give the Defender +5 Defense for the current Attack.",
+        "title": "Caged",
+        "number": "129",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "The Money Shot",
+        "artwork": {
+            "0": {
+                "file": "131.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"This is it. THIS is the one I'll be remembered for!\"",
+        "abilities": "Triple the strength of the current Attack.",
+        "title": "Tale",
+        "number": "131",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "The Stars Are Right",
+        "artwork": {
+            "0": {
+                "file": "132.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"The Prophesy! The time of darkness draws near!\"",
+        "abilities": "Double the current strength of a Creature Attack and give it the trait 'Supernatural'.",
+        "title": "They",
+        "number": "132",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "They Found the Fusebox",
+        "artwork": {
+            "0": {
+                "file": "133.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Oh great, he ate the light!\"",
+        "abilities": "Attach to a Location. That Location's Defense = -15. Discard from play if the Flashlight is in the same movie.",
+        "title": "Keep",
+        "number": "133",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Three Picture Deal",
+        "artwork": {
+            "0": {
+                "file": "134.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Somebody has to survive for the sequel.\"",
+        "abilities": "Attach this card to a Character to prevent them from being killed (no new Character may be chosen). They can no longer be targeted by Creatures from now on.",
+        "title": "Alive",
+        "number": "134",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Underground Monsters",
+        "artwork": {
+            "0": {
+                "file": "136.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"They're under the ground! They're under the gall-darned ground!\"",
+        "abilities": "Add +2 to the current Attack or double it if it has the Trait 'Monster'.",
+        "title": "Children",
+        "number": "136",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Amphibious",
+        "artwork": {
+            "0": {
+                "file": "141.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Kiss it on the snout. Maybe it will turn into a prince.\" \"Sure, a giant rampaging prince!\"",
+        "abilities": "Triple the strength of the current 'Aquatic' Attack. Even though it is 'Aquatic', it can still target a Movie with a non-'Aquatic' Location.",
+        "title": "Bloodthirsty",
+        "number": "141",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "To Be Continued...",
+        "artwork": {
+            "0": {
+                "file": "142.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"So it just stops and we have to wait a year for the ending? Somebody kill the director!\"",
+        "abilities": "Stop a Roll The Credits card from ending the game. It is discarded.",
+        "title": "Frankenstein",
+        "number": "142",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Studio Interference",
+        "artwork": {
+            "0": {
+                "file": "144.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"We have some notes...\"",
+        "abilities": "Pick any Player. They discard their entire hand and draw an equal number of new cards.",
+        "title": "Castle",
+        "number": "144",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Industry Legend",
+        "artwork": {
+            "0": {
+                "file": "145.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"He must have lost a bet to be starring in this...\"",
+        "abilities": "Attach to a Character. That Character gains +2 Defense.",
+        "title": "Nightmare",
+        "number": "145",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "special-effect",
+        "name": "Chivalrous But Dumb",
+        "artwork": {
+            "0": {
+                "file": "148.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Does this mean I'm not getting any?\"",
+        "abilities": "Sacrifice one of your 'Male' Characters to prevent one of your 'Female' Characters from being killed.",
+        "title": "Killer",
+        "number": "148",
+        "mechanic": "Steve Tassie"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were\nthe Killers All Along!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"We all go a little mad sometimes...\"",
+        "abilities": "Starting next turn, on your turn if you have more than one Character that can be played as a Psycho attack cast in your Movie, you may bank this Twist. Any such Character you control may be played as if they were a Psycho attack once per turn for their normal Popcorn cost. They return to your Movie afterwards, regardless of how the attack resolves.",
+        "title": "Screaming",
+        "number": "new-001",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Dead\nAll Along!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I see dead people...\"",
+        "abilities": "Starting next turn, on your turn, if you have exactly three Characters in your Movie, one 'Young', one 'Female', and one 'Male', you may discard the 'Male' Character and bank this Twist.",
+        "title": "Sense",
+        "number": "new-002",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "The Final Girl",
+        "artwork": {},
+        "traits": [],
+        "stat": "10",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I got you, you son of a...!\"",
+        "abilities": "If you only have one Character in your Movie, they are 'Female', and your Movie is being attacked, you may stop the attack and bank this Twist. This may only be banked as the final Plot Twist, and cannot be banked if an Opponent has an 'Alien' in play.",
+        "title": "Girl",
+        "number": "new-004",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Seen It Before",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"This movie's my favorite, I've watched it, like, a thousand times-- Oh wait! Here comes the boom drop... \"",
+        "abilities": "You may peek at one of your Opponent's face-down Plot Twists.",
+        "title": "On DVD",
+        "number": "new-005",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And It Won't Start!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"No, no-no-no-no! C'mon c'mon!\"",
+        "abilities": "Starting next turn, you may discard a 'Vehicle' in your Movie to bank this Twist. Until the end of the Movie, your Location may not be changed or added to. (But it can be destroyed or discarded.)",
+        "title": "Engine",
+        "number": "new-006",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Slowly\nDying All Along!",
+        "artwork": {},
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Ahhh, so that's why they kept coughing up blood...\"",
+        "abilities": "Starting next turn, on your turn you may reveal this Twist and attach it to one of your Characters. If they are still cast in your Movie by the end of your next turn, remove them and all their attached cards from play. Place those cards under this Twist and bank their total Defense.",
+        "title": "Blood",
+        "number": "new-007",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Secretly\nThe Monster All Along!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I just wanted to protect you from yourselves by scaring the living daylights out of you is all...\"",
+        "abilities": "When this card is placed face down, put a 'Large' Character from your hand face down under it. The next time there is an unsuccessful attack against your Movie, you may bank this Twist and play that Character in your Movie for free.",
+        "title": "Scared",
+        "number": "new-008",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "The Old Switcheroo!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Oh crap! They were twins!\"",
+        "abilities": "Starting next turn, if you and an Opponent each have a Character with the same Defense and the same gender, you may bank this Twist. Those two Characters exchange all of their attached cards and are swapped between their Movies while remaining in play.",
+        "title": "Twins",
+        "number": "new-009",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "But They Were Expecting Them!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"We just need to pick up a few things first...\"",
+        "abilities": "When your Movie is attacked, you may reveal this Twist. The attack stops and the Creature is placed on top of it. At the beginning of the attacking Opponent's next turn, after they fill up, the attack immediately begins again. You may bank this Twist if the Creature is defeated, otherwise it is discarded.",
+        "title": "Surprise",
+        "number": "new-009",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And It Burst From Their Chest!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"And I just thought he was having some heartburn!\"",
+        "abilities": "When this card is placed face-down, put an 'Alien' Creature face down under it. Starting next turn, on your turnyou may bank this Twist by killing one of your Characters.If you do, you may immediately attack an Opponent of your choice with the 'Alien' for free with a bonus of twice the Defense of the sacrificed Character.",
+        "title": "Burst",
+        "number": "new-010",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "The Last Man",
+        "artwork": {},
+        "traits": [],
+        "stat": "10",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Somebody had a cookout here, Vince.\"",
+        "abilities": "Starting next turn, if you only have one Character in your Movie, they are 'Male', and your Movie is being attacked, you may stop the attack and bank this Twist. This may only be banked as the final Plot Twist, and cannot be banked if an Opponent has a 'Cop' in play.",
+        "title": "Lives",
+        "number": "new-012",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "DMCA Smackdown",
+        "artwork": {},
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"It's not a light saber! That would be a copyright infringement. It's a sonic spirit blade!\" \"Right...\"",
+        "abilities": "You may place any one card an Opponent has in play into your hand provided that you can reveal a copy of it in your own hand, Movie, Graveyard, or deck. (If from the latter, be sure to replace it and shuffle.)",
+        "title": "Copy",
+        "number": "new-014",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Ended Up\nBack Where it All Started...",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"... we have to go back... to the mansion!\"",
+        "abilities": "You may bank this Twist if you have at least two Locations in your Graveyard. When you do, discard your current Location and replace it with the first Location your Movie was set in.",
+        "title": "Backwards",
+        "number": "new-015",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And Then They Woke Up\nElsewhere!",
+        "artwork": {},
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"--Gah! Wait... How'd I end up here?\"",
+        "abilities": "When this card is placed face-down, put a Location face down under it. If your Movie is attacked successfully, after your Opponent chooses which Character to kill you may bank this twist. Replace your current Location with the one under the Twist, and the Character survives.",
+        "title": "Awake",
+        "number": "new-016",
+        "mechanic": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Military Vehicle",
+        "artwork": {
+            "0": {
+                "file": "first-05-10.png",
+                "artist": "Steve Caruso"
+            }
+        },
+        "traits": [
+            "Vehicle",
+            "Weapon"
+        ],
+        "stat": "8",
+        "popcorn": "4",
+        "bucket": false,
+        "quote": "\"4-wheel drive, bullet-proof plating... and 36 cup holders!\"",
+        "abilities": "A Character with the Military Vehicle can be given any number of 'Weapon' Props in a single turn.",
+        "title": "Crushed",
+        "number": "05-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        }
+    }
+]

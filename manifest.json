@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Grave Robbers From Outer Space",
+        "short": "Classic GROS",
+        "year": "2001",
+        "sigil": "gros",
+        "type": "classic",
+        "description" : "The Original, Sci-Fi / Horror / B-Movie Card Game!",
+
+        "list": "gros/list.json",
+        "cover": "gros/cover.jpeg",
+        "art": "gros/art/",
+        "thumb": "gros/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/2472/grave-robbers-from-outer-space",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Grave Robbers II: Skippy's Revenge",
+        "short": "Classic GROS2: Skippy's Revenge",
+        "year": "2002",
+        "sigil": "gros2",
+        "type": "classic",
+        "description" : "Sequel to Grave Robbers From Outer Space!",
+
+        "list": "gros2/list.json",
+        "cover": "gros2/cover.jpeg",
+        "art": "gros2/art/",
+        "thumb": "gros2/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/6584/grave-robbers-ii-skippys-revenge",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Cannibal Pygmies in the Jungle of Doom",
+        "short": "Classic Cannibal Pygmies",
+        "year": "2002",
+        "sigil": "cpjd",
+        "type": "classic",
+        "description" : "Swing into adventure as the Jungle Queen and Skippy the Wonder Dog come face to face with Dinosaurs, Nazis, and Dancing Hatian Voodoo Zombies! Will the Great White Hunter escape the clutches of the Native Chieftain's Daughter? Will he? WILL HE?!?",
+
+        "list": "cpjd/list.json",
+        "cover": "cpjd/cover.jpeg",
+        "art": "cpjd/art/",
+        "thumb": "cpjd/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/3947/cannibal-pygmies-in-the-jungle-of-doom",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Kung Fu Samurai on Giant Robot Island",
+        "short": "Classic Kung Fu Samurai",
+        "year": "2003",
+        "sigil": "kfsgri",
+        "type": "classic",
+        "description" : "What do you get when you mix Kung Fu, Samurai, Giant Monster, and Anime flicks? A movie with incomprehensible dialogue, unreadable subtitles, and this, the latest B-movie card game from the Producer and Director of...",
+
+        "list": "kfsgri/list.json",
+        "cover": "kfsgri/cover.jpeg",
+        "art": "kfsgri/art/",
+        "thumb": "kfsgri/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/6583/kung-fu-samurai-on-giant-robot-island",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Bell-Bottomed Badassses on the Mean Streets of Funk",
+        "short": "Classic Bell-Bottomed Badasses",
+        "year": "2004",
+        "sigil": "bbbmsf",
+        "type": "classic",
+        "description" : "Who's the Private Dick that's a sex machine to all the chicks? Who is the man who would risk his neck for his brother man? Copyrights won't let us say, but he may be in...",
+
+        "list": "bbbmsf/list.json",
+        "cover": "bbbmsf/cover.jpeg",
+        "art": "bbbmsf/art/",
+        "thumb": "bbbmsf/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/13493/bell-bottomed-badassses-on-the-mean-streets-of-fun",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Berserker Halflings from the Dungeon of Dragons",
+        "short": "Classic Berserker Halflings",
+        "year": "2005",
+        "sigil": "bhdwd",
+        "type": "classic",
+        "description" : "Imagine being on a deserted island with a hot model eager to... wait, not that kind of fantasy! We're talking ugly goblins, bearded dwarves, and scantily clad elves stranded on a deserted island.... uh, you get the picture.",
+
+        "list": "bhdwd/list.json",
+        "cover": "bhdwd/cover.jpeg",
+        "art": "bhdwd/art/",
+        "thumb": "bhdwd/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/19732/berserker-halflings-from-the-dungeon-of-dragons",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "The Scurvy Musketeers of the Spanish Main",
+        "short": "Classic Scurvy Musketeers",
+        "year": "2006",
+        "sigil": "smsm",
+        "type": "classic",
+        "description" : "",
+
+        "list": "smsm/list.json",
+        "cover": "smsm/cover.jpeg",
+        "art": "smsm/art/",
+        "thumb": "smsm/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/23654/scurvy-musketeers-of-the-spanish-main",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Bushwhackin' Varmints out of Sergio's Butte",
+        "short": "Classic Bushwhackin' Varmints",
+        "year": "2007",
+        "sigil": "bvosb",
+        "type": "classic",
+        "description" : "",
+
+        "list": "bvosb/list.json",
+        "cover": "bvosb/cover.jpeg",
+        "art": "bvosb/art/",
+        "thumb": "bvosb/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/30261/bushwhackin-varmints-out-of-sergios-butte",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Silent But Deadly Night",
+        "short": "Classic Silent But Deadly Night",
+        "year": "2008",
+        "sigil": "sbdn",
+        "type": "classic",
+        "description" : "",
+
+        "list": "sbdn/list.json",
+        "cover": "sbdn/cover.jpeg",
+        "art": "sbdn/art/",
+        "thumb": "sbdn/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/39447/silent-but-deadly-night",
+        "link_text": "Board Game Geek"
+    },
+    {
+        "name": "Grave Robbers III: Suburban Slashers from Sunnydale Street",
+        "short": "Classic GROS 3: Suburban Slashers",
+        "year": "2009",
+        "sigil": "gros3",
+        "type": "classic",
+        "description" : "Suburbia. Where the silence of tree-lined streets is broken by the sweet sounds of chainsaws, hedge-clippers, lawn-mowers, and wood-chippers. Stroll happily through neighborhoods... Wait, did you hear that? It came from behind you. Don't turn around, just run as fast and as far as you can... And while you're out don't forget to steop at your local game store and buy...",
+
+        "list": "gros3/list.json",
+        "cover": "gros3/cover.jpeg",
+        "art": "gros3/art/",
+        "thumb": "gros3/thumb/",
+        "link" : "https://boardgamegeek.com/boardgame/66641/grave-robbers-iii-suburban-slashers-from-sunnydale",
+        "link_text": "Board Game Geek"
+    }
+]
